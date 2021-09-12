@@ -3,7 +3,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/vijetasaini0211" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="vijetasaini0211" height="30" width="40" /></a>
 
 <a href="https://linkedin.com/in/vijeta-saini-0211" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vijeta-saini-0211" height="30" width="40" /></a>
 </p>
