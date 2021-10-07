@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Vijeta Saini</h1>
-<h3 align="center">Web Developer and Designer</h3>
+<h3 align="center">Web Development intern at Rabvik Innovation</h3>
 
 
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Nodejs**
 
-- 👯 I’m looking to collaborate on **Web Development Projects**
+- 👯 I’m looking to collaborate on **Designing and Web Development Projects**
 
 - 📫 How to reach me **vijetasaini0211@gmail.com**
 
