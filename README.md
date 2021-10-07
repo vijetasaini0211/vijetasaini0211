@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Vijeta Saini</h1>
-<h3 align="center">Web Development intern at Rabvik Innovation</h3>
+<h3 align="center">Web Development Intern at Rabvik Innovations</h3>
 
 
 
